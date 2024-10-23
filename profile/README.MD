@@ -21,4 +21,5 @@ We are four Computer Science students from Roskilde University, this organizatio
 
 ### Mini Projects
 
-- [Portofolio Assignment 01](https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_1)
+- [Portfolio 01](https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_1)
+- [Portfolio 02](https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_2)
